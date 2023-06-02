@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Плейзер</string>
-    <string name="score_text">Счёт: %1$d</string>
-    <string name="best_score_text">Рекорд: %1$d</string>
-</resources>
