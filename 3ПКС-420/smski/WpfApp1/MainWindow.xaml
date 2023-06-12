@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Gadzhaliev_420 smski" Height="500" Width="800" Background="LightGreen" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition Width="765"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Собеседник" TextWrapping="Wrap" Margin="409,21,91,349" Foreground="White" FontSize="40" FontWeight="Bold" TextAlignment="Center" FontFamily="Times New Roman" Grid.Column="1" RenderTransformOrigin="0.5,0.5"></TextBlock>
+        <TextBlock Text="Вы" TextWrapping="Wrap" Margin="106,21,543,349" Foreground="White" FontSize="40" FontWeight="Bold" TextAlignment="Center" FontFamily="Times New Roman" Grid.Column="1"/>
+        <TextBox VerticalContentAlignment="Center" Name="SendMessage" Text="" TextWrapping="Wrap" Margin="24,377,495,29" Background="White" Foreground="Black" FontFamily="Times New Roman" FontSize="18" Grid.Column="1"></TextBox>
+        <ListBox Name="Messages" Margin="24,79,400,123" Background="White" Foreground="Black" FontFamily="Times New Roman" FontSize="16" Grid.Column="1"></ListBox>
+        <Button Content=">" Margin="276,377,400,29" Click="Send_Message" VerticalContentAlignment="Center" Background="White" Foreground="Black" FontSize="45" FontWeight="Bold" Cursor="Hand" Grid.Column="1" FontFamily="Bahnschrift"></Button>
+        <ListBox x:Name="Messages_Copy" Margin="371,79,53,123" Background="White" Foreground="Black" FontFamily="Times New Roman" FontSize="16" Grid.Column="1"></ListBox>
+        <Button Content=">" Margin="623,377,53,29" Click="Send_Message_Copy" VerticalContentAlignment="Center" Background="White" Foreground="Black" FontSize="45" FontWeight="Bold" Cursor="Hand" Grid.Column="1" FontFamily="Bahnschrift"></Button>
+        <TextBox VerticalContentAlignment="Center" x:Name="SendMessage_Copy" Text="" TextWrapping="Wrap" Margin="371,377,148,29" Background="White" Foreground="Black" FontFamily="Times New Roman" FontSize="18" Grid.Column="1"></TextBox>
+    </Grid>
+</Window>

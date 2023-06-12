@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9RPWSv1ioqEtPKqW83Y2wRLxNRq0wQHZL/sHRFBtaDa1n0uOzqvvLl/LbC3yxgZQw9OYJjM82ZDaQ0ibIiqFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bekna\\OneDrive\\Рабочий стол\\3 курс\\Информационные системы и сети\\Лабораторка 8\\Лабораторная_8\\Оппонент\\Оппонент.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bekna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

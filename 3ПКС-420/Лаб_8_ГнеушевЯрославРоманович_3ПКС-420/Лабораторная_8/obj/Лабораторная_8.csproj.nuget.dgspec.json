@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D\\Git_Hub_V2\\KipFin_Lab_2023_v0_Git0\\3ПКС-420\\Лаб_8_ГнеушевЯрославРоманович_3ПКС-420\\Лабораторная_8\\Лабораторная_8.csproj": {}
+  },
+  "projects": {
+    "C:\\D\\Git_Hub_V2\\KipFin_Lab_2023_v0_Git0\\3ПКС-420\\Лаб_8_ГнеушевЯрославРоманович_3ПКС-420\\Лабораторная_8\\Лабораторная_8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\Git_Hub_V2\\KipFin_Lab_2023_v0_Git0\\3ПКС-420\\Лаб_8_ГнеушевЯрославРоманович_3ПКС-420\\Лабораторная_8\\Лабораторная_8.csproj",
+        "projectName": "Лабораторная_8",
+        "projectPath": "C:\\D\\Git_Hub_V2\\KipFin_Lab_2023_v0_Git0\\3ПКС-420\\Лаб_8_ГнеушевЯрославРоманович_3ПКС-420\\Лабораторная_8\\Лабораторная_8.csproj",
+        "packagesPath": "C:\\Users\\SibNout2020\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\Git_Hub_V2\\KipFin_Lab_2023_v0_Git0\\3ПКС-420\\Лаб_8_ГнеушевЯрославРоманович_3ПКС-420\\Лабораторная_8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SibNout2020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

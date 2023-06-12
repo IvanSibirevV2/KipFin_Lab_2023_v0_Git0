@@ -1,0 +1,64 @@
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.exe.config
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.exe
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.pdb
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.AssemblyReference.cache
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\MainWindow.g.cs
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\App.g.cs
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.cache
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.lref
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\MainWindow.baml
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.g.resources
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.Properties.Resources.resources
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.GenerateResource.cache
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.CoreCompileInputs.cache
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.exe
+C:\Users\bom33\Desktop\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.pdb
+C:\Program Files\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.exe.config
+C:\Program Files\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.exe
+C:\Program Files\sln\c#\Messenger\Messanger_B\bin\Debug\Messanger_B.pdb
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.AssemblyReference.cache
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\MainWindow.g.cs
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\App.g.cs
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.cache
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.lref
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\MainWindow.baml
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.g.resources
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.Properties.Resources.resources
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.GenerateResource.cache
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.CoreCompileInputs.cache
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.exe
+C:\Program Files\sln\c#\Messenger\Messanger_B\obj\Debug\Messanger_B.pdb
+C:\Users\igord\source\repos\Messenger\Messanger_B\bin\Debug\Messanger_B.exe.config
+C:\Users\igord\source\repos\Messenger\Messanger_B\bin\Debug\Messanger_B.exe
+C:\Users\igord\source\repos\Messenger\Messanger_B\bin\Debug\Messanger_B.pdb
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.AssemblyReference.cache
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\MainWindow.g.cs
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\App.g.cs
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.cache
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.lref
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\MainWindow.baml
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B.g.resources
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B.Properties.Resources.resources
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.GenerateResource.cache
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messenger_B.csproj.CoreCompileInputs.cache
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B.exe
+C:\Users\igord\source\repos\Messenger\Messanger_B\obj\Debug\Messanger_B.pdb
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\bin\Debug\Messanger_B.exe.config
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\bin\Debug\Messanger_B.exe
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\bin\Debug\Messanger_B.pdb
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messenger_B.csproj.AssemblyReference.cache
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messenger_B.csproj.SuggestedBindingRedirects.cache
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\MainWindow.g.cs
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\App.g.cs
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.cache
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B_MarkupCompile.lref
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\MainWindow.baml
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B.g.resources
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B.Properties.Resources.resources
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messenger_B.csproj.GenerateResource.cache
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messenger_B.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B.exe
+C:\D\Git_Hub_V2\KipFin_Lab_2023_v0_Git0\3ПКС-220\Лаб_8_ГордеевИванДмитриевич_3ПКС-220\Messanger_B\obj\Debug\Messanger_B.pdb

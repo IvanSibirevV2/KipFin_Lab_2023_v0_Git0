@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23ed80f1-42f8-4d97-aaee-63727c4e5536": {
+      "ProjectGuid": "23ed80f1-42f8-4d97-aaee-63727c4e5536",
+      "DisplayName": "Messenger_A",
+      "ColorIndex": 0
+    },
+    "1ba4d5a0-fdea-47f2-ac08-a4664aa61731": {
+      "ProjectGuid": "1ba4d5a0-fdea-47f2-ac08-a4664aa61731",
+      "DisplayName": "Messenger_B",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
