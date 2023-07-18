@@ -1,0 +1,21 @@
+@echo off
+:loop
+echo Pinging translit-online.ru
+ping -n 1 translit-online.ru
+echo.
+echo Pinging kip.eljur.ru
+ping -n 1 kip.eljur.ru
+echo.
+echo Pinging mail.rumbler.ru
+ping -n 1 mail.rumbler.ru
+echo.
+echo Tracert translit-online.ru
+tracert -d translit-online.ru
+echo.
+echo Tracert kip.eljur.ru
+tracert -d kip.eljur.ru
+echo.
+echo Tracert mail.rumbler.ru
+tracert -d mail.rumbler.ru
+echo.
+goto loop

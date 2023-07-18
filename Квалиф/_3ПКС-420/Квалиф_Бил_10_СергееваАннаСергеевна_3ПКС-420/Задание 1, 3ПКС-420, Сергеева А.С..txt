@@ -1,1 +1,0 @@
-%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -NoExit -command "ping 10.37.21.1"
